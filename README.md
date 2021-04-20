@@ -4,8 +4,8 @@
 - Dev C++
 ### Game Discription
 - you can check it in disciption file of this repo.
-### Screen Shots
-- Rules of Games
+## Screen Shots
+### Rules of Games
 ![Rules](https://github.com/TT-talhatariq/Snake-and-Ladder-Game-c-/blob/master/images/rules.jpg)
 ### User Interface of Game
 ![UI](https://github.com/TT-talhatariq/Snake-and-Ladder-Game-c-/blob/master/images/UI.jpg)
